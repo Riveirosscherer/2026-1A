@@ -1,15 +1,22 @@
 
 
 @import url('https://fonts.googleapis.com/css2?family=Monsieur+La+Doulaise&family=Pinyon+Script&display=swap')
+
 :root{
-
-
---ciano:  #4ecdc4ff;
---branco: #ffffffff;
---rosa:--rosa#ff6b6bff;
---preto:#
-
+--Marrom:  #551b00;
+--Vermelho: #5e0000;
+--laranja: #ad320d;
+--Azul: rgb(7, 2, 82);
 }
 
---texto:"Monsieur La Doulaise", cursive; 
---titulo:"Pinyon Script", cursive;
+body{
+
+    background-color: var(--azul);
+    font-family: var(--texto);
+}
+header{
+
+background-color: Var(--Marrom);
+}
+
+    
