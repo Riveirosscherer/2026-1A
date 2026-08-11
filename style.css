@@ -1,22 +1,27 @@
 
 
-@import url('https://fonts.googleapis.com/css2?family=Monsieur+La+Doulaise&family=Pinyon+Script&display=swap')
+@import url('https://fonts.googleapis.com/css2?family=Monsieur+La+Doulaise&family=Pinyon+Script&display=swap');
 
 :root{
 --Marrom:  #551b00;
 --Vermelho: #5e0000;
 --laranja: #ad320d;
 --Azul: rgb(7, 2, 82);
+ margin: 0;
+padding: 0;
 }
 
 body{
 
-    background-color: var(--azul);
+    background-color: var(--Azul);
     font-family: var(--texto);
 }
 header{
 
 background-color: Var(--Marrom);
+text-align: center;
+padding: 10px;
+color:var(--Azul) 
 }
 
     
