@@ -23,5 +23,15 @@ text-align: center;
 padding: 10px;
 color:var(--Azul) 
 }
+.capa{
+    width: 100%;;
+}
+.caixa-conteudo{
+    margin: 20px;
+    border: 2px;
+    text-align: center;}
 
-    
+.conteudo-titulo
+font-family:var(--branco)
+font-size:30px 
+color:
